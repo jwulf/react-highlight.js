@@ -96,7 +96,7 @@
     "worker-loader": "^0.7.0"
   },
   "dependencies": {
-    "highlight.js": "^9.3.0"
+    "highlight.js": "https://github.com/jwulf/highlight.js.git"
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
